@@ -35,6 +35,7 @@ footer a {
 @media (max-width: 425px) {
     .navbar-right {
         font-size: 17px;
+        text-align: center;
     }
     footer .col-md-3 {
         margin-top: 40px;
