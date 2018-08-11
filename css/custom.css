@@ -43,12 +43,16 @@ hr {
 }
 footer {
     margin-top: 50px;
-    background: #CCE7D7;
-    color: #008737;
+    background: #98dab3;
+    color: #074D9F;
     padding: 30px 0
 }
 footer a, address p {
     color: #074D9F
+}
+
+footer h5, footer h4 {
+    font-size: 20px;
 }
 
 
