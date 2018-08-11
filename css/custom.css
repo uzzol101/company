@@ -41,6 +41,7 @@ hr {
 #company-info p{
     font-size: 16px;
 }
+
 footer {
     margin-top: 50px;
     background: #98dab3;
@@ -48,12 +49,35 @@ footer {
     padding: 30px 0;
     border-top: 2px solid #25AF5D;
 }
+#footer-home {
+    margin-top: 50px;
+}
 footer a, address p {
     color: #074D9F
 }
 
 footer h5, footer h4 {
     font-size: 20px;
+}
+
+/* SOLUTION PAGE */
+#featured {
+    background: rgba(165, 226, 161, 0.5);
+    height: auto;
+    padding: 40px;
+}
+#featured h3 {
+    font-size: 30px;
+    padding-left: 42px;
+    color: green;
+    text-transform: uppercase;
+    margin: 0 0 20px;
+}
+#featured-area {
+    /* text-align: center; */
+}
+#featured-area img {
+    margin: 0 auto;
 }
 
 
