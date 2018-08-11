@@ -1,6 +1,10 @@
 #main_navigation {
     padding: 10px 0;
 }
+#logo {
+    width: 149px;
+    margin-top: -20px;
+}
 .navbar-right {
     font-size: 16px;
 }
@@ -22,13 +26,17 @@ footer {
 footer a {
     color: darkgray
 }
-/* #footer_nav li {
-    border-bottom: 1px solid #fff
-} */
+address p {
+    color: darkgray;
+}
 
 @media (max-width: 768px) {
     .navbar-right {
         font-size: 12px;
+    }
+    #logo {
+        width: 135px;
+        margin-top: -16px;
     }
 }
 
