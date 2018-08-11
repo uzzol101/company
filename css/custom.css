@@ -115,6 +115,9 @@ footer h5, footer h4 {
     #md_contact {
         margin-top: 50px;
     }
+    #featured {
+        padding: 40px 0;
+    }
 }
 
 @media (max-width: 425px) {
@@ -132,6 +135,9 @@ footer h5, footer h4 {
     }
     footer a {
         font-size: 15px;
+    }
+    #featured h3 {
+        font-size: 18px;
     }
    
 }
