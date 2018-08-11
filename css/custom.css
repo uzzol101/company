@@ -1,5 +1,20 @@
 #main_navigation {
     padding: 10px 0;
+    margin-bottom: 0;
+}
+#main_navigation a {
+    color: #008737
+}
+.navbar-inverse {
+    background-color: #CCE7D7;
+    border: none;
+    border-bottom: 3px solid #25af5d;
+}
+.carousel-control.left {
+    background-image: linear-gradient(to right, rgba(107, 187, 102, .5) 0%, rgba(0, 0, 0, .0001) 100%);
+}
+.carousel-control.right {
+    background-image: linear-gradient(to right, rgba(0, 0, 0, .0001) 0%, rgba(107, 187, 102, .5) 100%);
 }
 #logo {
     width: 149px;
